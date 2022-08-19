@@ -1,4 +1,4 @@
-# CplusPlus-Program
+# CPlusPlus-Program
 
 # Summarize the project and what problem it was solving
 The project was to complete a program for Corner Grocer. They wanted text records to be analyzed that they collect thoughout the day. The three requirements were to produce a list of all items purchased in a given day along with the amount of time each item was purchased, display a number representing how many times a specific item was purchased in a given day, and display a histogram for all itmes purchased during a given day along with how many of each item was purchased. I used CPP and Python to complete this project.
